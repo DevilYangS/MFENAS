@@ -1,10 +1,11 @@
 ## Introduction
-This is the source code of the paper entitled 'Accelerating Envolutionary Neural Architecture via Multi-Fidelity Evaluation ' 
+This is the source code of the paper entitled *Accelerating Envolutionary Neural Architecture via Multi-Fidelity Evaluation*
 
 ## Notes
 The source code inlcluding searching, training and best models found by MFENAS will be released once the paper is accepted.
 
--------------------------------------------- Current Version Notes------------------------------------------
+-------------------------------------------- **Current Version Notes**------------------------------------------
+
 The current version is just a baseline approach for reference, the detailed explanation and useage will be given when this paper is accepted.
 Of course, you can study this source code yourself to help your work.
 
