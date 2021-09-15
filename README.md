@@ -11,6 +11,18 @@ Of course, you can study this source code yourself to help your work.
 
 To plot the architecture of found cells, you have to install *pygraphviz* package and use *Plot_network* function in **utils.py**. 
 
+
+## Citation
+If you find this work helpful in your research, please use the following BibTex entry to cite our paper.
+```
+@article{yang2021accelerating,
+  title={Accelerating Evolutionary Neural Architecture Search via Multi-Fidelity Evaluation},
+  author={Yang, Shangshang and Tian, Ye and Xiang, Xiaoshu and Peng, Shichen and Zhang, Xingyi},
+  journal={arXiv preprint arXiv:2108.04541},
+  year={2021}
+}
+```
+
 ## Acknowledgement
 Thanks for the help of [NAO](https://github.com/renqianluo/NAO_pytorch/tree/master/NAO_V2), [NSGA-Net](https://github.com/ianwhale/nsga-net) and [ACE-NAS](https://github.com/anonymone/ACE-NAS).
 
