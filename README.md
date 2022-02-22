@@ -12,6 +12,13 @@ Of course, you can study this source code yourself to help your work.
 To plot the architecture of found cells, you have to install *pygraphviz* package and use *Plot_network* function in **utils.py**. 
 
 
+## Dependency Install
+
+
+## Usage
+
+
+
 ## Citation
 If you find this work helpful in your research, please use the following BibTex entry to cite our paper.
 ```
