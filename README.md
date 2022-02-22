@@ -13,9 +13,26 @@ To plot the architecture of found cells, you have to install *pygraphviz* packag
 
 
 ## Dependency Install
-
+```
+pytorch>=1.4.0
+pygraphviz # used for plotting neural architectures
+```
 
 ## Usage
+```
+# Search process
+python EMO.py
+
+# Training process
+python train_cifar.py # validate on CIFAR-10 and CIFAR-100 datasets
+python train_imagenet.py # validate on ImageNet dataset
+
+# Plotting
+
+
+
+```
+
 
 
 
