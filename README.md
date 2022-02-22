@@ -28,8 +28,10 @@ python train_cifar.py # validate on CIFAR-10 and CIFAR-100 datasets
 python train_imagenet.py # validate on ImageNet dataset
 
 # Plotting
-
-
+Given a solution in EMO.py
+the solution's normal cell and reduction cell can be plotted by
+executing 'utils.Plot_network(solution.dag[0], path)' and 'utils.Plot_network(solution.dag[1], path)',
+where 'path' is the path to save figures.
 
 ```
 
