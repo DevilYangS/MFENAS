@@ -48,11 +48,11 @@ where 'path' is the path to save figures.
 ## Citation
 If you find this work helpful in your research, please use the following BibTex entry to cite our paper.
 ```
-@article{yang2021accelerating,
+@article{yang2022accelerating,
   title={Accelerating Evolutionary Neural Architecture Search via Multi-Fidelity Evaluation},
   author={Yang, Shangshang and Tian, Ye and Xiang, Xiaoshu and Peng, Shichen and Zhang, Xingyi},
-  journal={arXiv preprint arXiv:2108.04541},
-  year={2021}
+  journal={IEEE Transactions on Cognitive and Developmental Systems},
+  year={2022}
 }
 ```
 
