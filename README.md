@@ -11,6 +11,7 @@ Of course, you can study this source code yourself to help your work.
 
 To plot the architecture of found cells, you have to install *pygraphviz* package and use *Plot_network* function in **utils.py**. 
 
+To run MFENAS, you can execute the ```EMO_MFENAS.py ```
 
 ## Dependency Install
 ```
